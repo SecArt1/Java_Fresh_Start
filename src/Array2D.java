@@ -1,3 +1,5 @@
+// Creating a 2D array and filling it with random numbers then  printing it's content.
+
 public class Array2D {
 
     public static void main (String[] args){
